@@ -17,11 +17,13 @@
 
 - [Аналитика. Общий план MVP](./wiki/wlss/analytics__mvp_plan.md)
 
-- [Модель. Друзья](./wiki/wlss/model__friends.md)
+- [Модель. Дружба](./wiki/wlss/model__friendship.md)
 
-- [Модель. Желания](./wiki/wlss/model__wishes.md)
+- [Модель. Желание](./wiki/wlss/model__wish.md)
 
-- [Модель. Пользователи](./wiki/wlss/model__users.md)
+- [Модель. Пользователь](./wiki/wlss/model__user.md)
+
+- [Модель. Профиль](./wiki/wlss/model__profile.md)
 
 - [Юридические документы](./wiki/wlss/legal_documents.md)
 
