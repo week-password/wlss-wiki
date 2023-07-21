@@ -43,8 +43,6 @@
 
 - заменить скрипт `envs/local/dev/scripts/git/iam.sh` на инструкцию в разделе "First time setup"
 
-- завести задачу на вычищение всей моковой функциональности и тестов перед началом непосредственной разработки
-
 - рассмотреть возможность добавления [Rich](https://github.com/Textualize/rich#rich-library) для настройки [трейсбеков](https://rich.readthedocs.io/en/latest/traceback.html#) при разработке (огромные трейсы от асинхронного кода немного раздражают)
 
 - обновить зависимости перед началом разработки функциональности MVP
@@ -92,3 +90,5 @@
 - подумать над добавлением тэга в название роутера, чтобы его было удобнее использовать, например: `APIRouter(tags="auth")` -> `AuthRouter(tags="auth")`, `APIRouter(tags="service")` -> `ServiceRouter(tags="service")`
 
 - подумать над добавлением файла, который исключает коммиты из блейма, почитать об этом можно [тут](https://www.stefanjudis.com/today-i-learned/how-to-exclude-commits-from-git-blame/), [тут](https://git-scm.com/docs/git-blame#Documentation/git-blame.txt---ignore-revs-fileltfilegt) и [тут](https://docs.github.com/en/repositories/working-with-files/using-files/viewing-a-file#ignore-commits-in-the-blame-view)
+
+- разобраться почему при использовании нашего кастомного декоратора @enum.types(), в IDE перестаёт работать автокомплит для членов этого енама
