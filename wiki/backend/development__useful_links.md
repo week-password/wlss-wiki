@@ -40,3 +40,7 @@
 - Большой сборник различных статей и заметок на различные технические темы
 
    [The Blue Book](https://lyz-code.github.io/blue-book/)
+
+- Сходства и различия REST и GraphQL. На данный момент ценность этой статьи лишь в том, что она описывает множество проблем, связанных с REST апи, которые, кажется, решены в GraphQL
+
+  [What’s the Difference Between GraphQL and REST?](https://aws.amazon.com/compare/the-difference-between-graphql-and-rest/)
