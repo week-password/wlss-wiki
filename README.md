@@ -60,3 +60,7 @@
 </p></details>
 
 ***
+
+#### [Private](https://github.com/week-password/wlss-private/)
+
+_Документация с ограниченным доступом._
