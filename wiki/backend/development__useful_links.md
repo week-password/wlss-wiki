@@ -44,3 +44,7 @@
 - Сходства и различия REST и GraphQL. На данный момент ценность этой статьи лишь в том, что она описывает множество проблем, связанных с REST апи, которые, кажется, решены в GraphQL
 
   [What’s the Difference Between GraphQL and REST?](https://aws.amazon.com/compare/the-difference-between-graphql-and-rest/)
+
+- Интересная статья про Backend for Frontend, которая может решить проблему аггрегации (джойна) данных из разных запросов на клиентской стороне
+
+  [Pattern: Backends For Frontends](https://samnewman.io/patterns/architectural/bff/)
