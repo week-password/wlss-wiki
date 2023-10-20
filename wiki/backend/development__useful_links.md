@@ -48,3 +48,7 @@
 - Интересная статья про Backend for Frontend, которая может решить проблему аггрегации (джойна) данных из разных запросов на клиентской стороне
 
   [Pattern: Backends For Frontends](https://samnewman.io/patterns/architectural/bff/)
+
+- Полезная статья о процессе получения хорошего сертификата для https через Let's Encrypt
+
+  [Running Your Flask Application Over HTTPS](https://blog.miguelgrinberg.com/post/running-your-flask-application-over-https)
