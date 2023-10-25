@@ -52,3 +52,7 @@
 - Полезная статья о процессе получения хорошего сертификата для https через Let's Encrypt
 
   [Running Your Flask Application Over HTTPS](https://blog.miguelgrinberg.com/post/running-your-flask-application-over-https)
+
+- Статья с довольно подробным описанием механизма CORS
+
+  [CORS для чайников: история возникновения, как устроен и оптимальные методы работы](https://habr.com/ru/companies/macloud/articles/553826/)
