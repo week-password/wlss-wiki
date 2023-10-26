@@ -56,3 +56,7 @@
 - Статья с довольно подробным описанием механизма CORS
 
   [CORS для чайников: история возникновения, как устроен и оптимальные методы работы](https://habr.com/ru/companies/macloud/articles/553826/)
+
+- Статья про закрепление зависимостей
+
+  [How should you pin dependencies and why?](https://the-guild.dev/blog/how-should-you-pin-dependencies-and-why)
