@@ -13,12 +13,12 @@
 
 - [Аналитика. Общий план MVP](./analytics__mvp_plan.md)
 
-- [Модель. Аккаунт](./model__account.md)
+- [Модель. Аккаунт (Account)](./model__account.md)
 
-- [Модель. Дружба](./model__friendship.md)
+- [Модель. Дружба (Friendship)](./model__friendship.md)
 
-- [Модель. Желание](./model__wish.md)
+- [Модель. Желание (Wish)](./model__wish.md)
 
-- [Модель. Профиль](./model__profile.md)
+- [Модель. Профиль (Profile)](./model__profile.md)
 
 - [Юридические документы](./legal_documents.md)
