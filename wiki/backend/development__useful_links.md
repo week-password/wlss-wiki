@@ -45,6 +45,10 @@
 
   [What’s the Difference Between GraphQL and REST?](https://aws.amazon.com/compare/the-difference-between-graphql-and-rest/)
 
+- Преимущества и недостатки GraphQL - хорошая статья, которая даёт задуматься, стоит ли нам использовать GraphQL
+
+  [GraphQL: от восторга до разочарования](https://habr.com/ru/articles/728476/)
+
 - Интересная статья про Backend for Frontend, которая может решить проблему аггрегации (джойна) данных из разных запросов на клиентской стороне
 
   [Pattern: Backends For Frontends](https://samnewman.io/patterns/architectural/bff/)
