@@ -7,6 +7,10 @@
 
   [Zalando RESTful API and Event Guidelines](https://opensource.zalando.com/restful-api-guidelines/index.html#_zalando_restful_api_and_event_guidelines)
 
+- Интересная статья о недостатках REST
+
+  [REST — это новый SOAP](https://habr.com/ru/companies/vk/articles/345184/)
+
 - Большой сборник лучших практик по FastAPI.
 
   [FastAPI Best Practices](https://github.com/zhanymkanov/fastapi-best-practices)
