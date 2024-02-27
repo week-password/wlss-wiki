@@ -37,8 +37,6 @@
 
 <details><summary><i>Документация для бэкенда.</i></summary><p>
 
-- [Задачи. Бэклог бэклога](./wiki/backend/tasks__backlog_backlog.md)
-
 - [Разработка. Общий план MVP](./wiki/backend/development__mvp_plan.md)
 
 - [Разработка. Полезные ссылки](./wiki/backend/development__useful_links.md)
