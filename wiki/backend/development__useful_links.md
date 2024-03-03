@@ -68,3 +68,7 @@
 - Статья про закрепление зависимостей
 
   [How should you pin dependencies and why?](https://the-guild.dev/blog/how-should-you-pin-dependencies-and-why)
+
+- Интересная статья про настройку производительности ASGI и WSGI
+
+  [Fine Tuning Python WSGI and ASGI applications for Flask, Django, and FastAPI](https://tonybaloney.github.io/posts/fine-tuning-wsgi-and-asgi-applications.html)
