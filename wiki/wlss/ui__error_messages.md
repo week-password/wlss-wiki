@@ -22,7 +22,7 @@
 `unavailableemail`
 Введённый e-mail недоступен
 
-`passworsdmatch`
+`passwordsmatch`
 Пароли не совпадают
 
 `fileformat`
