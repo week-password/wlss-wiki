@@ -16,6 +16,12 @@
 `pattern`
 Поле содержит недопустимые символы
 
+`unavailablelogin`
+Введённый логин недоступен
+
+`unavailableemail`
+Введённый e-mail недоступен
+
 `passworsdmatch`
 Пароли не совпадают
 
