@@ -1,7 +1,7 @@
 [wiki](../../README.md) / [wlss](./index.md) /
 
 
-# UI. Тексты ошибок
+# Коды и тексты ошибок
 
 
 `required`
