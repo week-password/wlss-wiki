@@ -9,8 +9,6 @@
 
 <details><summary><i>Общая документация по проекту.</i></summary><p>
 
-- [UI. Тексты ошибок](./wiki/wlss/ui__error_messages.md)
-
 - [Аналитика. Авторизация](./wiki/wlss/analytics__authorization.md)
 
 - [Аналитика. Идеи для развития](./wiki/wlss/analytics__future_ideas.md)
@@ -52,6 +50,8 @@
 
 
 <details><summary><i>Документация для фронтенда.</i></summary><p>
+
+- [Коды и тексты ошибок](./wiki/frontend/error_codes_and_messages.md)
 
 - [Структура проекта](./wiki/frontend/project_structure.md)
 
